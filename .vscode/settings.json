@@ -3,11 +3,11 @@
     {
       "ssh": "Disabled",
       "previewLimit": 50,
-      "server": "localhost",
-      "port": 5432,
+      "server": "",
+      "port": ,
       "driver": "PostgreSQL",
-      "name": "etl_pipeline",
-      "database": "main_1",
+      "name": "",
+      "database": "",
       "username": "postgres"
     }
   ]
